@@ -1,5 +1,5 @@
 # Users-project
-Aplicação criada para estudo de nodejs
+Aplicação fullstack com objetivo de estudo de nodejs, criando uma api rest e consumindo-a nos ambientes web e mobile.
 
 ## 💻 Tecnologias utilizadas
 
