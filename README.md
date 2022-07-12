@@ -2,11 +2,14 @@
 Aplicação criada para estudo de nodejs
 
 ## 💻 Tecnologias utilizadas
-```
-Vue.js
-Node.js
-MongoDB
-```
+
+### Frontend
+- Vue.js
+### Backend
+- Node.js
+- MongoDB
+### Mobile
+- React Native
 
 ## Autor
 ---
